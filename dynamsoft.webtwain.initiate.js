@@ -6392,7 +6392,7 @@ if (!Dynamsoft.Lib) {
 		DynamicDWTMap: {},
 		ProductKey: "",
 		Trial: true,
-		ResourcesPath: "https://https://dabresaad-alt.github.io/dynamsoft-webtwain-resource/",
+		ResourcesPath: "https://dabresaad-alt.github.io/dynamsoft-webtwain-resource",
 		Debug: false,
 		IfUpdateService: false,
 		AutoLoad: true,
